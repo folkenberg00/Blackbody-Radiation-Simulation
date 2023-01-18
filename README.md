@@ -12,3 +12,9 @@ black-body radiation to wavelength at any given temperature.</p>
   <li><a href="https://numpy.org/doc/stable/user/whatisnumpy.html">NumPy </a>- n-dimensional arrays of homogeneous data types</li>
   <li><a href="https://matplotlib.org/stable/users/index">matplotlib </a>- 2D Plotting</li>
 </ul>
+<h3 align="left">Attached Files</h3>
+<hr width="100%" color="white" size="2px"/>
+<ul>
+  <li><a href="https://github.com/folkenberg00/Blackbody-Radiation-Simulation/blob/main/wien.py">wien.py </a>- Simulation code</li>
+  <li><a href="https://github.com/folkenberg00/Blackbody-Radiation-Simulation/blob/main/wien.png">wien.png </a>- Sample simulation output</li>
+</ul>
